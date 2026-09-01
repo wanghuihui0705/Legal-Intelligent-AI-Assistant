@@ -8,3 +8,6 @@ datasets/
 output/
 node_modules/
 dist/
+models/
+static/
+templates/
